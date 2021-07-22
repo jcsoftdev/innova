@@ -54,6 +54,6 @@
         "vue-toasted": "^1.1.27",
         "vuejs-datepicker": "^1.6.2",
         "vuetify": "^2.2.11",
-        "xlsx": "^0.15.5"
+        "xlsx": "^0.17.0"
     }
 }
